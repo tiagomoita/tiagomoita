@@ -1,4 +1,4 @@
-# Viva ! 
+# Olá ! 
 
 My name is Tiago Moita. I am a full-time front-end developer living in Lisbon, Portugal.
 
