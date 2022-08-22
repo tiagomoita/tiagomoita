@@ -30,6 +30,8 @@ My name is Tiago Moita. I am a full-time front-end developer living in Lisbon, P
 
 ## 📖  What I am currently learning / improving on
 
+Currently learning Microservices with Node JS and React
+
 ## 👾  What I am interested in learning at some point
 
 ## 🔍  Where to find me
