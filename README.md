@@ -1,6 +1,6 @@
 # Olá ! 
 
-My name is Tiago Moita. I am a full-time front-end developer living in Lisbon, Portugal.
+My name is Tiago Moita. I am a full-time front-end developer.
 
 "Always willing to learn as much as i can with the resources that i have" :D
 
